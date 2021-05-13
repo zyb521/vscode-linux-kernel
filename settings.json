@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "**/.*.*.cmd": true,
+        "**/*.o": true,
         "**/.*.d": true,
         "**/.*.S": true
     },
