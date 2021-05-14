@@ -1,3 +1,7 @@
+    $ git clone https://github.com/zyb521/vscode-linux-kernel.git .vscode
+    $ python .vscode/generate_compdb.py ./ -O .vscode
+===================================================
+
 Visual Studio Code project for Linux kernel sources
 ===================================================
 
